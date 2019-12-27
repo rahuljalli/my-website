@@ -3,9 +3,14 @@
 	padding: 0;
 	font-family: Century Gothic;
 }
+body{
+background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRS2APRnPKbzh3g0QlM9u7K3DWnD_EBxn1PCGYn-JrsOv11e77A');
+	background-repeat:no-repeat;
+	
+}
 
 header{
-	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRS2APRnPKbzh3g0QlM9u7K3DWnD_EBxn1PCGYn-JrsOv11e77A');
+/* 	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRS2APRnPKbzh3g0QlM9u7K3DWnD_EBxn1PCGYn-JrsOv11e77A'); */
 	height:100vh;
 	background-size: cover;
 	background-position :center;
